@@ -16,16 +16,16 @@ class main{
                     System.out.println("cash withdrawal");
                     break;
                 case 2:
-                    System.out.println("cash withdrawal");
+                    System.out.println("cash Deposit");
                     break;
                 case 3:
-                    System.out.println("cash withdrawal");
+                    System.out.println("Balance Enquiry");
                     break;
                 case 4:
-                    System.out.println("cash withdrawal");
+                    System.out.println("Update/Create Pin");
                     break;
                 case 5:
-                    System.out.println("cash withdrawal");
+                    System.out.println("Exiting");
                     break;
                 default:
                     System.out.println("wrong choice");
